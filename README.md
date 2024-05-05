@@ -24,3 +24,4 @@ This Arduino project demonstrates how to use an ESP32 development board with an 
 The Arduino sketch (`main.ino`) contains the code for reading the sensor data and displaying it on the OLED display. 
 
 ## Circuit
+ckt.png
