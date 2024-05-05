@@ -23,5 +23,4 @@ This Arduino project demonstrates how to use an ESP32 development board with an 
 ## Code
 The Arduino sketch (`main.ino`) contains the code for reading the sensor data and displaying it on the OLED display. 
 
-## Credits
-This project is inspired by various tutorials and examples available online for using ultrasonic sensors with ESP32 and OLED displays.
+## Circuit
